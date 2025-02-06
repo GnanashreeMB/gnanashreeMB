@@ -1,9 +1,7 @@
 Hi 👋, I'm Gnanashree MB
 
-i'm currently pursuing my bachelor's degree
+i'm currently pursuing my bachelor's degree in computer science
 
-Check out my resume here - 
-
-All of my projects are available on 
+All of my projects are available here
 
 Reach out to me at gnanashree006@gmail.com
